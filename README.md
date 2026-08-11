@@ -23,6 +23,9 @@ We use the same general guidelines for introducing a new REP as specified in [BI
 Number | Layer | Title | Owner | Type | Status
 --- | --- | --- | --- | --- | ---
 [0001](docs/rep-0001.md) | | Reddcoin Enhancement Proposal Process | Reddcoin Core | Process | Draft
+[0002](docs/rep-0002.md) | Consensus | Versionbits `lockinontimeout` (BIP8 guaranteed activation) | Reddcoin Core | Specification | Draft
+[0003](docs/rep-0003.md) | Consensus | PoSV3 Stake-Timestamp Hardening | Reddcoin Core | Specification | Draft
+[0004](docs/rep-0004.md) | Consensus | Per-block Stake Modifier (hard fork) | Reddcoin Core | Specification | Draft
 
 ## License
 
