@@ -27,6 +27,7 @@ Number | Layer | Title | Owner | Type | Status
 [0003](docs/rep-0003.md) | Consensus | PoSV3 Stake-Timestamp Hardening | Reddcoin Core | Specification | Draft
 [0004](docs/rep-0004.md) | Consensus | Per-block Stake Modifier (hard fork) | Reddcoin Core | Specification | Draft
 [0005](docs/rep-0005.md) | Applications | Reddcoin BIP32 derivation path registry | Reddcoin Core | Informational | Draft
+[1018](docs/rep-1018.md) | Applications | Signed release manifests for client verification | Reddcoin Core | Specification | Draft
 
 ## License
 
