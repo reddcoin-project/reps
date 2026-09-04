@@ -3,7 +3,7 @@
 ```
   REP: (unassigned)
   Layer: Applications
-  Title: Signed release manifests for client-side verification
+  Title: Signed release manifests for client verification
   Authors: CryptoGnasher <gnasher@reddcoin.com>
   Status: Draft
   Type: Specification
